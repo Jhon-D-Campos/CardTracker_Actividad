@@ -139,6 +139,9 @@ export function CardTracker() {
             <p className="hero-description">
               Explora nuevas series, descubre piezas especiales y mantén tu colección en un solo lugar.
             </p>
+            <p className="hero-description">
+              Proyecto final de la materia Ingeniería de software Jhonatan Enrique Diaz Campos 225361644
+            </p>
             <a className="button button-light" href="#catalog">
               Explorar catálogo <ArrowRight aria-hidden="true" size={17} />
             </a>
